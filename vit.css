@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url(peixe2-removebg-preview.png);
+    background-image: url(imagens/peixe1-removebg-preview.png);
     background-repeat: no-repeat;
     background-position: 500px 1850px;
     background-attachment: scroll;
@@ -15,7 +15,7 @@ body {
 }
 
 header, 
-section h2, 
+section h2,
 section h3 {
     font-family: 'Montserrat', sans-serif;
     font-weight: normal;
